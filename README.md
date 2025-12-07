@@ -28,7 +28,7 @@ Libraries	OpenCV, NumPy, PyTorch
 
 Input Image
 
-![Cricket Balls Input](input_image.jpeg)
+![Cricket Balls Input](image.jpeg)
 
 Output Image
 
